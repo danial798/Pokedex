@@ -8,4 +8,4 @@ export default function Header(props) {
             <h1 className="text-gradient">Pokédex</h1>
         </header>
     )
-}   
+}       
