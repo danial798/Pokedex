@@ -1,5 +1,4 @@
 import { first151Pokemon, getFullPokedexNumber, getPokedexNumber } from "../utils"
-
 import { useState } from 'react'
 
 export default function SideNav(props) {
